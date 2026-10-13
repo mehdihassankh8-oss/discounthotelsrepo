@@ -1,0 +1,7 @@
+{
+  "name": "DiscountHotels.pk - Karachi Hotel Comparison & Booking",
+  "description": "Compare and book 3-star, 4-star and 5-star hotels in Karachi, Pakistan. Exclusive corporate rates, group bookings, and long stay hotel discounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
